@@ -1,3 +1,4 @@
 baseURL = 'https://fjfuente77.github.io/'
 languageCode = 'es-CL'
 title = 'My New Hugo Site'
+theme = 'ananke'
